@@ -5,6 +5,7 @@
 - 📫 How to reach me: walshj70@tcd.ie
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I enjoy bouldering, debate, and I am learning german
+- Linkedin: https://www.linkedin.com/in/jack-walsh-ab1b01332/
 
 <!---
 Mad-At-Line/Mad-At-Line is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
