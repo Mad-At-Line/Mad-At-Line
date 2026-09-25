@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Mad-At-Line
-- 👀 I’m interested in Astrophysics, ML4Physics and Astronomy, Quantum computing, and Astrophotography
-- 🌱 I’m currently learning Astropy
+- 👀 I’m interested in Astrophysics, ML4Astro, novel machine learning infrastructures, and Astrophotography
+- 🌱 I’m currently learning Astropy 
 - 💞️ I’m looking to collaborate on any project as long as it's interesting 
-- 📫 How to reach me: madatline07@gmail.com
-- 😄 Pronouns: ...
+- 📫 How to reach me: walshj70@tcd.ie
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love foxes and mountains!
 
 <!---
