@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any project as long as it's interesting 
 - 📫 How to reach me: walshj70@tcd.ie
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love foxes and mountains!
+- ⚡ Fun fact: I enjoy bouldering, debate, and I am learning german
 
 <!---
 Mad-At-Line/Mad-At-Line is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
